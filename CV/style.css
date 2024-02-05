@@ -213,3 +213,25 @@ p
     color: #fff;
     text-decoration: none;
 }
+
+.share{
+    display: flex;
+}
+
+.fb-share-button a{
+    color:white;
+    background-color: brown;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.linkedin-share-button a{
+    color:white;
+    background-color: brown;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-left: 20px;
+}
